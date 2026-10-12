@@ -1,0 +1,13 @@
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.csproj.AssemblyReference.cache
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.Form1.resources
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.Properties.Resources.resources
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.csproj.GenerateResource.cache
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.csproj.CoreCompileInputs.cache
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\bin\Debug\BAITAP12TH10.exe.config
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\bin\Debug\BAITAP12TH10.exe
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\bin\Debug\BAITAP12TH10.pdb
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.exe
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.pdb
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.Form2.resources
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.Product.resources
+C:\Users\vansa\Downloads\BAITAP12TH10\BAITAP12TH10\obj\Debug\BAITAP12TH10.Form3.resources
